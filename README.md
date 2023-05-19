@@ -1,3 +1,3 @@
 # git_test
 The Odin Project
-Hello Odin! 
+Hello Odin! and everyone else :D
